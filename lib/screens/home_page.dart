@@ -13,8 +13,7 @@ class HomePage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.end,
                   children: [
-                
-Text('aparna'),
+                    Text('aparna'),
                     Text('d'),
                   ],
                 ))));
